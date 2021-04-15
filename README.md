@@ -4,7 +4,7 @@
  
 📗 Learning how to #BuildInPublic with [coolLabs](https://coollabs.io)
 
-💡 Currently working on [Coolify](https://coollabs.io/coolify) - An open-source, hassle-free, self-hostable Heroku & Netlify alternative.
+   - 💡 Currently working on [Coolify](https://coollabs.io/coolify) - An open-source, hassle-free, self-hostable Heroku & Netlify alternative.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/andrasbacsai?color=blue&label=Follow%20my%20journey%20on%20Twitter&style=for-the-badge)](https://twitter.com/andrasbacsai)
 
