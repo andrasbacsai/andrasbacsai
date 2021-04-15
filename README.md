@@ -12,17 +12,13 @@
 
 ## 🎉 What I'm proud of
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=coolify&theme=buefy)](https://github.com/coollabsio/coolify)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrasbacsai&repo=machine-learning-api&theme=buefy)](https://github.com/andrasbacsai/machine-learning-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=coolify&theme=buefy)](https://github.com/coollabsio/coolify) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrasbacsai&repo=machine-learning-api&theme=buefy)](https://github.com/andrasbacsai/machine-learning-api)
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+## 📈 My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrasbacsai&hide=java,html,css&theme=buefy&count_private=true)](https://github.com/andrasbacsai/github-readme-stats)
-
-[![AndrasBacsai's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrasbacsai&show_icons=true&theme=buefy&count_private=true)](https://github.com/andrasbacsai/github-readme-stats)
 
 
 <!--
