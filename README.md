@@ -13,7 +13,7 @@
 
 ## 🎉 What I'm proud of
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=coolify&theme=dracula)](https://github.com/coollabsio/coolify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=coolify&theme=buefy)](https://github.com/coollabsio/coolify)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrasbacsai&repo=machine-learning-api&theme=buefy)](https://github.com/andrasbacsai/machine-learning-api)
 
