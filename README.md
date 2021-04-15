@@ -4,7 +4,9 @@
 
 
 💡 Currently working on [Coolify](https://coollabs.io/coolify) - An open-source, hassle-free, self-hostable Heroku & Netlify alternative 
+
 ---
+
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/andrasbacsai?color=black&label=Follow%20my%20journey%20on%20Twitter&style=for-the-badge">
 
 --- 
