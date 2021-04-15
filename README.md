@@ -1,4 +1,4 @@
-### Hey, I'm Andras 👋
+# Hey, I'm Andras 👋
 
 🍝 Spaghetti coder [codesandbox.io](https://codesandbox.io)
  
@@ -23,7 +23,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrasbacsai&hide=java,html,css&theme=buefy&count_private=true)](https://github.com/andrasbacsai/github-readme-stats)
 
 [![AndrasBacsai's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrasbacsai&show_icons=true&theme=buefy&count_private=true)](https://github.com/andrasbacsai/github-readme-stats)
-
 
 
 <!--
