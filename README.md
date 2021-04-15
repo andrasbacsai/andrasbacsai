@@ -1,6 +1,6 @@
 ### Hey, I'm Andras 👋
 
-🧙‍♂️ I do open-source things at work [@codesandbox](https://codesandbox.io) and building open-source side-projects publicly [@coollabsio](https://coollabs.io).
+🧙‍♂️ I do open-source things at [@codesandbox](https://codesandbox.io) and building open-source side-projects publicly [@coollabsio](https://coollabs.io).
 
 ---
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/andrasbacsai?color=black&label=Follow%20my%20journey%20on%20Twitter&style=for-the-badge">
