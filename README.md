@@ -1,8 +1,6 @@
-# Hey, I'm Andras 👋
+# 👋 Hey, I'm Andras 👨‍💻 Full-stack developer / DevOps engineer
 
-👨‍💻 Full-stack developer / DevOps engineer @codesandbox by day
-
-💡 Currently working on a side-project by night, called [Coolify](https://coolify.io) - An open-source, hassle-free, self-hostable Heroku & Netlify alternative.
+Working [@codesandbox](https://codesandbox.io) by day / [@coollabsio](https://coollabs.io) by night.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/andrasbacsai?color=blue&label=Follow%20my%20journey%20on%20Twitter&style=for-the-badge)](https://twitter.com/andrasbacsai)
 
@@ -10,7 +8,12 @@
 
 ## 🎉 What I'm proud of
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=coolify&theme=dracula)](https://github.com/coollabsio/coolify) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrasbacsai&repo=machine-learning-api&theme=dracula)](https://github.com/andrasbacsai/machine-learning-api)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrasbacsai&repo=machine-learning-api&show_owner=true)](https://github.com/andrasbacsai/machine-learning-api)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=fonts&show_owner=true)](https://github.com/coollabsio/fonts)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=coolify&show_owner=true)](https://github.com/coollabsio/coolify) 
 
 <!--
 **andrasbacsai/andrasbacsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
