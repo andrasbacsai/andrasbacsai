@@ -8,12 +8,9 @@ Working [@codesandbox](https://codesandbox.io) by day / [@coollabsio](https://co
 
 ## 🎉 What I'm proud of
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrasbacsai&repo=machine-learning-api&show_owner=true)](https://github.com/andrasbacsai/machine-learning-api)  
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=coolify&show_owner=true)](https://github.com/coollabsio/coolify) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=fonts&show_owner=true)](https://github.com/coollabsio/fonts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=coolify&show_owner=true)](https://github.com/coollabsio/coolify) 
 
 <!--
 **andrasbacsai/andrasbacsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
