@@ -1,6 +1,6 @@
 # 👋 Hey!
 
-Andras here, a Full-stack developer / DevOps engineer, working [@codesandbox](https://codesandbox.io) by day / [@coollabsio](https://coollabs.io) by night.
+Andras here, a Software Engineer, working [@codesandbox](https://codesandbox.io) by day / [@coollabsio](https://coollabs.io) by night.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/andrasbacsai?color=blue&label=Follow%20my%20journey%20on%20Twitter&style=for-the-badge)](https://twitter.com/andrasbacsai)
 
