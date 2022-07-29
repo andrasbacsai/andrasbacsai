@@ -2,7 +2,7 @@
 
 Hi, I'm Andras, a Full-Stack / DevOps Engineer working on [@coollabsio](https://coollabs.io) and other cool stuffs.
 
-I quit my job in 2022 to start my [Indie Hacker](https://www.getrevue.co/profile/andrasbacsai).
+I quit my job in 2022 to start my [Indie Hacker](https://www.getrevue.co/profile/andrasbacsai) journey.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/andrasbacsai?color=blue&label=Follow%20my%20journey%20on%20Twitter&style=for-the-badge)](https://twitter.com/andrasbacsai)
 
