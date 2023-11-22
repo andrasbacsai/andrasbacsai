@@ -1,6 +1,6 @@
 # 👋
 
-I'm Andras, a developer working on [@coollabsio](https://coollabs.io) and other cool stuff.
+I'm Andras, an indie hacker working primarily on [Coolify](https://coolify.io) - An open-source & self-hostable Heroku / Netlify / Vercel alternative and other cool stuff [@coollabsio](https://coollabs.io).
 
 --- 
 
