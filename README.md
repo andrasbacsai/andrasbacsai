@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Andras%20Bacsai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Indie%20hacker%20·%20Open-source%20infra%20·%20No%20compromise&descAlignY=62&descSize=16" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Andras%20Bacsai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Entrepreneur%20·%20Open-source%20infra%20·%20No%20compromise&descAlignY=62&descSize=16" alt="banner" />
 
 [![Coolify](https://img.shields.io/badge/Coolify-9333ea?style=for-the-badge&logo=docker&logoColor=white)](https://coolify.io)
 [![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/andrasbacsai)
@@ -93,7 +93,15 @@ An API for your Linux server. Lightweight, fast, written in Go.
 
 <div align="center">
 
-![Andras's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrasbacsai&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9333ea&icon_color=9333ea)
+[![coollabsio stars](https://img.shields.io/badge/⭐_stars_across_@coollabsio-59k+-9333ea?style=for-the-badge&labelColor=0d1117)](https://github.com/coollabsio)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrasbacsai&theme=tokyonight" alt="profile" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrasbacsai&theme=tokyonight" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrasbacsai&theme=tokyonight&utcOffset=2" alt="productive" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrasbacsai&theme=tokyonight" alt="languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrasbacsai&theme=tokyonight" alt="commits" />
 
 </div>
 
