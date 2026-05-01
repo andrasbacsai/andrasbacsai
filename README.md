@@ -80,12 +80,26 @@ An API for your Linux server. Lightweight, fast, written in Go.
 
 ## whatelse
 
-<a href="https://github.com/coollabsio/serverlesshorrors.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=serverlesshorrors.com&show_owner=true&theme=tokyonight" alt="serverlesshorrors" />
-</a>
-<a href="https://github.com/coollabsio/llmhorrors.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=llmhorrors.com&show_owner=true&theme=tokyonight" alt="llmhorrors" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Serverless Horrors](https://github.com/coollabsio/serverlesshorrors.com)
+Real stories of serverless bills gone catastrophic. A reminder why you shouldn't trust the cloud.
+
+![stars](https://img.shields.io/github/stars/coollabsio/serverlesshorrors.com?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/Astro-FF5D01?style=flat&labelColor=1a1b27)
+
+</td>
+<td width="50%" valign="top">
+
+### [LLM Horrors](https://github.com/coollabsio/llmhorrors.com)
+Real stories of LLMs going wrong. Hallucinations, leaks, and other AI nightmares.
+
+![stars](https://img.shields.io/github/stars/coollabsio/llmhorrors.com?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/Astro-FF5D01?style=flat&labelColor=1a1b27)
+
+</td>
+</tr>
+</table>
 
 ---
 
