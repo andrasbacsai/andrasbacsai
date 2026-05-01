@@ -17,7 +17,7 @@ Founder of [**@coollabsio**](https://github.com/coollabsio). I build open-source
 
 ---
 
-## Heroes
+### whatamidoing
 
 <table>
 <tr>
@@ -78,7 +78,7 @@ An API for your Linux server. Lightweight, fast, written in Go.
 
 ---
 
-## Also Building
+## whatelse
 
 <a href="https://github.com/coollabsio/serverlesshorrors.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=serverlesshorrors.com&show_owner=true&theme=tokyonight" alt="serverlesshorrors" />
@@ -89,7 +89,7 @@ An API for your Linux server. Lightweight, fast, written in Go.
 
 ---
 
-## Stats
+## stats for neds
 
 <div align="center">
 
