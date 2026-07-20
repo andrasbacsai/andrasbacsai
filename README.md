@@ -2,7 +2,7 @@
 
 Founder of [@coollabsio](https://github.com/coollabsio). I build open-source, self-hostable alternatives to closed SaaS: tools you actually own. No paywalls, no premium tiers, no compromise.
 
-I built a 5-person business from these free and open source apps on accident, lol.
+I built a 5-person business from these free and open source apps unintentionally, lol.
 
 ## philosophy
 
