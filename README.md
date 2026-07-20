@@ -4,13 +4,13 @@ Founder of [@coollabsio](https://github.com/coollabsio). I build open-source, se
 
 I built a 5-person business from these free and open source apps unintentionally, lol.
 
-## philosophy
-
-From [coollabs.io/philosophy](https://coollabs.io/philosophy):
+## my philosophy
 
 - Software should be free and accessible to everyone.
 - 100% open source. No features locked behind paywalls. No enterprise edition.
 - Forever free. Not a growth hack - a core belief that will not change.
+
+More at [coollabs.io/philosophy](https://coollabs.io/philosophy).
 
 ## whatamidoing
 
