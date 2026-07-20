@@ -10,6 +10,7 @@ Founder of [@coollabsio](https://github.com/coollabsio). I build open-source, se
 - **[Safetyper](https://github.com/coollabsio/safetyper)** — A Grammarly alternative — where YOU own what you type on your keyboard.
 - **[Fonts](https://github.com/coollabsio/fonts)** — A privacy-friendly drop-in replacement for Google Fonts.
 - **[Sentinel](https://github.com/coollabsio/sentinel)** — An API for your Linux server. Lightweight, fast, written in Go.
+- **[Shoutrrr](https://github.com/coollabsio/shoutrrr)** — An open-source alternative to Buffer, Typefully, and Hootsuite. Write once and schedule everywhere.
 
 ## whatelse
 

@@ -16,7 +16,7 @@ Keep section headers lowercase and dry: `whatamidoing`, `whatelse`, `links`.
 
 1. **Title** — `# Andras Bacsai`
 2. **whoami** — 1 paragraph, founder pitch (no heading needed)
-3. **whatamidoing** — 6 hero projects as a bullet list
+3. **whatamidoing** — hero projects as a bullet list (currently 7)
 4. **whatelse** — 2 secondary projects as a bullet list
 5. **links** — coolify, sponsor, X, discord
 6. **Footer line** — building-in-the-open at @coollabsio
