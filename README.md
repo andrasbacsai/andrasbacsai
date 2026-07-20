@@ -4,6 +4,14 @@ Founder of [@coollabsio](https://github.com/coollabsio). I build open-source, se
 
 I built a 5-person business from free and open-source apps.
 
+## philosophy
+
+From [coollabs.io/philosophy](https://coollabs.io/philosophy):
+
+- Software should be free and accessible to everyone.
+- 100% open source. No features locked behind paywalls. No enterprise edition.
+- Forever free. Not a growth hack - a core belief that will not change.
+
 ## whatamidoing
 
 - **[Coolify](https://github.com/coollabsio/coolify)** - Self-hostable Heroku / Vercel / Netlify alternative. 280+ one-click services on your own servers.
