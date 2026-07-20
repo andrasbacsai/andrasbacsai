@@ -18,14 +18,16 @@ Keep section headers lowercase and dry: `whatamidoing`, `whatelse`, `links`.
 2. **whoami** — 1 paragraph, founder pitch (no heading needed)
 3. **whatamidoing** — hero projects as a bullet list (currently 7)
 4. **whatelse** — 2 secondary projects as a bullet list
-5. **links** — coolify, sponsor, X, discord
+5. **links** — coollabs.io, sponsor, X, discord
 6. **Footer line** — building-in-the-open at @coollabsio
 
 ## Project list item template
 
 ```md
-- **[Name](https://github.com/coollabsio/<repo>)** — One-line pitch. Past period.
+- **[Name](https://github.com/coollabsio/<repo>)** - One-line pitch. Past period.
 ```
+
+Do not use em dashes (`—`). Use a hyphen (`-`) or rephrase.
 
 ## Updating content
 
