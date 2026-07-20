@@ -2,6 +2,8 @@
 
 Founder of [@coollabsio](https://github.com/coollabsio). I build open-source, self-hostable alternatives to closed SaaS: tools you actually own. No paywalls, no premium tiers, no compromise.
 
+I built a 5-person business from free and open-source apps.
+
 ## whatamidoing
 
 - **[Coolify](https://github.com/coollabsio/coolify)** - Self-hostable Heroku / Vercel / Netlify alternative. 280+ one-click services on your own servers.
