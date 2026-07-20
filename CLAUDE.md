@@ -10,16 +10,17 @@ GitHub profile README at `andrasbacsai/andrasbacsai`. Single content file: `READ
 
 **Text only.** Plain markdown. No banners, badges, HTML tables, images, stats cards, or external render services.
 
-Keep section headers lowercase and dry: `whatamidoing`, `whatelse`, `links`.
+Keep section headers lowercase and dry: `my philosophy`, `whatamidoing`, `links`.
+
+Do not repeat FOSS / no-paywall messaging across sections. Philosophy owns those principles; intro stays short; project lines stay product-specific.
 
 ## Structure (top-to-bottom)
 
-1. **Title** — `# Andras Bacsai`
-2. **whoami** — 1 paragraph, founder pitch (no heading needed)
-3. **whatamidoing** — hero projects as a bullet list (currently 7)
-4. **whatelse** — 2 secondary projects as a bullet list
-5. **links** — coollabs.io, sponsor, X, discord
-6. **Footer line** — building-in-the-open at @coollabsio
+1. **Title** - `# Andras Bacsai`
+2. **whoami** - founder line + business line (no heading)
+3. **my philosophy** - 3 core bullets + link to coollabs.io/philosophy
+4. **whatamidoing** - all projects as one bullet list (apps first, horror blogs last)
+5. **links** - coollabs.io, sponsor, X, discord
 
 ## Project list item template
 
@@ -28,14 +29,12 @@ Keep section headers lowercase and dry: `whatamidoing`, `whatelse`, `links`.
 ```
 
 Do not use em dashes (`—`). Use a hyphen (`-`) or rephrase.
+Do not restate "open source" / "free forever" on every project line.
 
 ## Updating content
 
-### Add / swap a hero project
-Replace one bullet under `whatamidoing`. Keep about 6 heroes.
-
-### Move project between whatamidoing ↔ whatelse
-Cut the bullet, paste into the other list.
+### Add a project
+Add a bullet under `whatamidoing`. Keep horror blogs at the end of the list.
 
 ## Don't do
 
@@ -43,3 +42,4 @@ Cut the bullet, paste into the other list.
 - Don't reintroduce the `<!-- … -->` GitHub template boilerplate.
 - Don't reintroduce banners, shields.io badges, HTML tables, capsule-render, or github-profile-summary-cards.
 - Don't hardcode star counts.
+- Don't re-add a separate `whatelse` section or a redundant "building in the open" footer if founder + links already cover @coollabsio.
